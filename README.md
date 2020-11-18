@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
 
+It demonstrate HTTP calls to two endpoints (provided in projects available [here](https://github.com/marc06210/spring-cors-sample). One of the endpoint is
+defined to allow CORS from http://localhost:4200 and the second one has no specific configuration.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
